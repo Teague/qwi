@@ -1,4 +1,4 @@
-Cython==0.20
+Cython
 docker==4.4.1
 ipykernel==5.3.4
 ipython==7.16.1
